@@ -22,4 +22,4 @@ Files:
 
 `run.py` - runs all examples and combinations of the model is capable of and prints figures of each
 
-Checkout AstarWriteUp for detailed explanation A* and its functionalities
+Checkout `AstarWriteUp.pdf` for detailed explanation A* and its functionalities
