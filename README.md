@@ -13,7 +13,7 @@ Files:
     `run_Offline_Astar` - runs classic offline Astar
 
     `run_Online_Astar` - runs simple online Astar moving between grids
-    
+
     `run_Online_AStar_Control` - runs online Astar on a mobile robot
 
 `controller.py` - contains two classic for the motion controller when the robot moves after path has been found `Controller` and simultaneous path and motion `Controller_Live`
@@ -21,3 +21,5 @@ Files:
 `buildGrid.py` -  Creates the occupancy grid from given landscape data
 
 `run.py` - runs all examples and combinations of the model is capable of and prints figures of each
+
+Checkout AstarWriteUp for detailed explanation A* and its functionalities
