@@ -9,8 +9,11 @@ This repositiory includes an A* algorithm coded from scratch. The algorithm take
 Files:
 
 `Astar.py` - Astar class contains functions for each functionality
+
     `run_Offline_Astar` - runs classic offline Astar
+
     `run_Online_Astar` - runs simple online Astar moving between grids
+    
     `run_Online_AStar_Control` - runs online Astar on a mobile robot
 
 `controller.py` - contains two classic for the motion controller when the robot moves after path has been found `Controller` and simultaneous path and motion `Controller_Live`
